@@ -1,0 +1,8 @@
+En esta oportunidad, el archivo HTML necesario para el ejercicio se los entrego listo y no pueden modificarlo (sin excepción).
+
+La consigna consiste en crear el archivo de CSS necesario y aplicarle las reglas de estilo que correspondan para que el archivo index.html 
+ya incluido se vea como se muestra en las imágenes y video de referencia.
+
+Para esto, tener en cuenta:
+- No pueden modificar el archivo HTML.
+- No pueden aplicar JavaScript.
