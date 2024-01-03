@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono&family=Lobster&family=Rubik+Doodle+Shadow&display=swap');
+*{
+ padding: 0px;
+ margin: 0px;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+html{
+    background-color: #4c7b9d;
+}
+body{
+    background-color: #acdadc;
+    
+}
+h1 {
+    background-color: #df3448;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: #df3448;
+    text-align: center;
+}
+
+p::first-letter{
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
